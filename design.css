@@ -3,6 +3,7 @@ body {
   color: #475569;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
+  margin: 0;
 }
 
 .main_header {
@@ -151,4 +152,4 @@ body {
   .grid_gallery {
     grid-template-columns: 1fr !important;
   }
-}/*# sourceMappingURL=design.css.map */
+}
