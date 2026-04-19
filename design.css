@@ -3,7 +3,6 @@ body {
   color: #475569;
   font-family: "Inter", sans-serif;
   line-height: 1.6;
-  margin: 0;
 }
 
 .main_header {
@@ -114,7 +113,7 @@ body {
 }
 
 .btn_main {
-  background: #6366f1;
+  background: #1e293b;
   color: #13fff3;
   padding: 12px 32px;
   border-radius: 12px;
@@ -124,7 +123,7 @@ body {
   transition: 0.3s;
 }
 .btn_main:hover {
-  background: rgb(52.2, 56.1, 236.8);
+  background: rgb(12.808988764, 17.5056179775, 25.191011236);
   color: white;
 }
 
@@ -152,4 +151,4 @@ body {
   .grid_gallery {
     grid-template-columns: 1fr !important;
   }
-}
+}/*# sourceMappingURL=design.css.map */

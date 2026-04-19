@@ -3,7 +3,6 @@ $light-bg: #13fff3;
 $text: #475569;
 
 body {
-    margin: 0;
     background-color: $light-bg;
     color: $text;
     font-family: 'Inter', sans-serif;
@@ -126,7 +125,7 @@ body {
 }
 
 .btn_main {
-    background: $primary;
+    background: $dark;
     color: $light-bg;
     padding: 12px 32px;
     border-radius: 12px;
@@ -135,7 +134,7 @@ body {
     border: none;
     transition: 0.3s;
     &:hover {
-        background: darken($primary, 10%);
+        background: darken($dark, 10%);
         color: white;
     }
 }
